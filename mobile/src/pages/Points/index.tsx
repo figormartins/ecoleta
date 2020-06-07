@@ -20,6 +20,7 @@ interface Point {
   image: string
   latitude: number
   longitude: number
+  image_url: string
 }
 
 interface Params {
@@ -114,7 +115,7 @@ const Points = () => {
 
         <Text style={styles.title}>😄 Bem vindo.</Text>
         <Text style={styles.description}>Encontre no mapa um ponto de coleta.</Text>
-
+        
         <View style={styles.mapContainer}>
           {initialPosition[0] !== 0 && (
             <MapView
@@ -140,7 +141,7 @@ const Points = () => {
                   <View style={styles.mapMarkerContainer}>
                     <Image
                       style={styles.mapMarkerImage}
-                      source={{ uri: point.image }}
+                      source={{ uri: point.image_url }}
                     />
                     <Text style={styles.mapMarkerTitle}>{point.name}</Text>
                   </View>
