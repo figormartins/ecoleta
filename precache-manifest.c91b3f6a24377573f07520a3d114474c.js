@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42b2a07939e9e66992f885676d622cbd",
+    "revision": "368bef145a6cacd21027d4b6e2aa65fe",
     "url": "/ecoleta/index.html"
   },
   {
