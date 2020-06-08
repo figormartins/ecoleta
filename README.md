@@ -17,7 +17,7 @@
 
 This project was developed in this international environment week. The propose is to connect companies to make a difference every day.
 
-# ![Cover image](.github/capa.svg)
+# ![Home image](.github/capa.jpg)
 
 >
 
