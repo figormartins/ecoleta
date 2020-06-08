@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ecoleta/static/css/main.cbc78667.chunk.css",
-    "main.js": "/ecoleta/static/js/main.3222e716.chunk.js",
-    "main.js.map": "/ecoleta/static/js/main.3222e716.chunk.js.map",
+    "main.css": "/ecoleta/static/css/main.6fe1baad.chunk.css",
+    "main.js": "/ecoleta/static/js/main.9d82dbf3.chunk.js",
+    "main.js.map": "/ecoleta/static/js/main.9d82dbf3.chunk.js.map",
     "runtime-main.js": "/ecoleta/static/js/runtime-main.8591051e.js",
     "runtime-main.js.map": "/ecoleta/static/js/runtime-main.8591051e.js.map",
     "static/js/2.b2690283.chunk.js": "/ecoleta/static/js/2.b2690283.chunk.js",
     "static/js/2.b2690283.chunk.js.map": "/ecoleta/static/js/2.b2690283.chunk.js.map",
     "index.html": "/ecoleta/index.html",
-    "precache-manifest.754ed146a9cae03b633f6ab6828db31a.js": "/ecoleta/precache-manifest.754ed146a9cae03b633f6ab6828db31a.js",
+    "precache-manifest.5734830c64d1cd42ab8e1d01761173b3.js": "/ecoleta/precache-manifest.5734830c64d1cd42ab8e1d01761173b3.js",
     "service-worker.js": "/ecoleta/service-worker.js",
-    "static/css/main.cbc78667.chunk.css.map": "/ecoleta/static/css/main.cbc78667.chunk.css.map",
+    "static/css/main.6fe1baad.chunk.css.map": "/ecoleta/static/css/main.6fe1baad.chunk.css.map",
     "static/js/2.b2690283.chunk.js.LICENSE.txt": "/ecoleta/static/js/2.b2690283.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/ecoleta/static/media/home-background.fe2283e1.svg",
-    "static/media/logo.svg": "/ecoleta/static/media/logo.47c4581a.svg"
+    "static/media/styles.css": "/ecoleta/static/media/home-background.abd2ba69.svg",
+    "static/media/logo.svg": "/ecoleta/static/media/logo.26434f1f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8591051e.js",
     "static/js/2.b2690283.chunk.js",
-    "static/css/main.cbc78667.chunk.css",
-    "static/js/main.3222e716.chunk.js"
+    "static/css/main.6fe1baad.chunk.css",
+    "static/js/main.9d82dbf3.chunk.js"
   ]
 }
