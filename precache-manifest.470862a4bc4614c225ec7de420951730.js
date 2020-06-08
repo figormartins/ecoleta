@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "368bef145a6cacd21027d4b6e2aa65fe",
+    "revision": "eb138e9f7f0816a465876f4b647b1888",
     "url": "/ecoleta/index.html"
   },
   {
-    "revision": "3dda491fcb09a0f769bb",
+    "revision": "26388379cb9aa64beff5",
     "url": "/ecoleta/static/css/main.6fe1baad.chunk.css"
   },
   {
-    "revision": "5489b116af0c5368b557",
-    "url": "/ecoleta/static/js/2.b2690283.chunk.js"
+    "revision": "3272dfc36ee75f276f34",
+    "url": "/ecoleta/static/js/2.b91e359b.chunk.js"
   },
   {
     "revision": "da75538c52411804769b514107a743de",
-    "url": "/ecoleta/static/js/2.b2690283.chunk.js.LICENSE.txt"
+    "url": "/ecoleta/static/js/2.b91e359b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dda491fcb09a0f769bb",
-    "url": "/ecoleta/static/js/main.9d82dbf3.chunk.js"
+    "revision": "26388379cb9aa64beff5",
+    "url": "/ecoleta/static/js/main.9a96d214.chunk.js"
   },
   {
-    "revision": "7e4de1f158a5cf6f86a8",
-    "url": "/ecoleta/static/js/runtime-main.8591051e.js"
+    "revision": "f9ea10c9cbc049a4b4b7",
+    "url": "/ecoleta/static/js/runtime-main.48bb886c.js"
   },
   {
     "revision": "abd2ba69bb6bf8469130b703115dd2a2",
